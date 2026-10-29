@@ -20,4 +20,4 @@ Este é um projeto desenvolvido em Java com o objetivo de consultar dados de uti
 1. Certifica-te de que tens o **Java Development Kit (JDK) 11** (ou superior) instalado na tua máquina.
 2. Faça o clone deste repositório:
    ```bash
-   git clone [https://github.com/teu-usuario/consulta-api-github-java.git](https://github.com/teu-usuario/consulta-api-github-java.git)
+   git clone [https://github.com/teu-usuario/consulta-github-via-API.git](https://github.com/teu-usuario/consulta-github-via-API.git)
